@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.menu{
+    height: 50px;
+    background-color: black;
+    color: white;
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: space-around;
+}
+.logo{
+    width: 100px;
+}
+.menus{
+    display: flex;
+    justify-content: space-around;
+}
+.mi{
+    margin-right: 20px;
+}
+.mi:hover{
+    color: black;
+    background-color: white;
+}
+.mainbody{
+    display: flex;
+}
