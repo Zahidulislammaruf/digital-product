@@ -20,11 +20,35 @@
 }
 .mi{
     margin-right: 20px;
+    padding: 3px 3px;
 }
 .mi:hover{
     color: black;
     background-color: white;
 }
 .mainbody{
+    height: 100vh;
+    align-items: center;
     display: flex;
+    justify-content: space-around 
+    
+}
+.ph1{
+    width: 400px;
+}
+.t1{
+    font-size: 50px;
+}
+.t2{
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.btn{
+    padding: 10px 12px;
+    background-color: black;
+    color: aliceblue;
+}
+.btn:hover{
+    background-color: red;
 }
