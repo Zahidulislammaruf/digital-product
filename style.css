@@ -53,3 +53,15 @@
 .btn:hover{
     background-color: red;
 }
+.aboutus{
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+}
+.aboutcon{
+    height: 100vh;
+    align-items: center;
+    display: flex;
+    gap: 100px;
+    justify-content: space-around 
+}
